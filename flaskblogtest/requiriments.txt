@@ -1,0 +1,7 @@
+flask
+wtf
+sqlachemy
+bcrypt
+login
+pillow
+mail
